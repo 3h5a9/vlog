@@ -8,6 +8,6 @@
 
 moderator = Moderator.create(
   fullname: "sm-ehsan",
-  username: "smehsan",
+  username: "smehsan@example.com",
   password: "password"
 )
